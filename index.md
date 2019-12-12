@@ -4,23 +4,17 @@
 
 ### Projects 
 
-[Intracranial Hemorrhage Detection](/sample_page)
+[Intracranial Hemorrhage Detection](https://github.com/kbojo/Intracranial-Hemorrhage-Detection)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[NLP](/pdf/sample_presentation.pdf)
+[NLP](https://github.com/kbojo/Project_3-NLP)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Hackathon Good Fast Cheap](http://example.com/)
+[Hackathon Good Fast Cheap](https://github.com/kbojo/Project_4-Hackathon-Good-Fast-Cheap)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
