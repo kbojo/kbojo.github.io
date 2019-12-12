@@ -13,7 +13,7 @@
 
 ---
 [Hackathon Good Fast Cheap](https://github.com/kbojo/Project_4-Hackathon-Good-Fast-Cheap)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2019-12-12 at 8.47.29 AM.png?raw=true"/>
 
 ---
 
