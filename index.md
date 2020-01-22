@@ -5,7 +5,7 @@
 <img src="images/Screen Shot 2019-11-30 at 5.18.54 PM.png?raw=true" width="200" height="200"/>
 
 
-[Natural Language Processing: Parenting Styles and Depression](https://github.com/kbojo/Project_3-NLP)<br/>
+[NLP: Parenting Styles and Depression](https://github.com/kbojo/Project_3-NLP)<br/>
 <img src="images/depression_cover.jpg?raw=true" width="200" height="200"/>
 
 
