@@ -6,7 +6,7 @@
 
 
 [Natural Language Processing: Parenting Styles and Depression](https://github.com/kbojo/Project_3-NLP)<br/>
-<img src="images/depression_cover squared.jpg?raw=true" width="200" height="200"/>
+<img src="images/depression_cover.jpg?raw=true" width="200" height="200"/>
 
 
 [Hackathon Good Fast Cheap](https://github.com/kbojo/Project_4-Hackathon-Good-Fast-Cheap)<br/>
